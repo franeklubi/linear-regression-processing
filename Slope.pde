@@ -1,3 +1,4 @@
+
 class Slope {
 
     float mean_of_xs;
